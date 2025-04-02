@@ -1,4 +1,4 @@
-# Python Data Analytics: Supers Store Exploratory Data Analysis
+# Python Data Analytics Portfolio
 [![Platform - SAS 9.4](https://img.shields.io/badge/Platform-Python_3.13.2-Green
 )]
 
