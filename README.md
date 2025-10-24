@@ -4,7 +4,7 @@ Welcome to my **Python** repository!
 
 I'm Deondre Brown, a Business Intelligence Data Anaylst with a background mostly in Supply Chain and Logistics. I enjoy transforming data into meaningful insights through interactive dashboards and visual storytelling. This repository showcases my Python work — a collection of data analysis projects that highlight my ability to clean, explore, and visualize data using pandas, matplotlib, and seaborn to uncover meaningful insights and trends.
 ### Projects
-- **N/A** – N/A  
+- **Superstore Analysis** – EDA that analyzes important Superstore data metrics
 - **N/A** – N/A
 
 ## 🛠️ Overall tools I have experience with
