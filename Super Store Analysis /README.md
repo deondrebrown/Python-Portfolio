@@ -64,7 +64,8 @@ The findings can help stakeholders understand which product lines are most profi
 ---
 
 ## Notebook Access
-📓 **Interactive Jupyter Notebook:** [View the Superstore Analysis Notebook](Super_Store_Analysis_Project.ipynb)
+📓 **Interactive Jupyter Notebook:** [View the Superstore Analysis Notebook](Super%20Store%20Analysis/Super_Store_Analysis_Project.ipynb)
+
 
 
 
