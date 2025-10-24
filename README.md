@@ -1,26 +1,30 @@
-# Python Data Analytics Portfolio
-[![Platform - SAS 9.4](https://img.shields.io/badge/Platform-Python_3.13.2-Green
-)]
+# 📊 Portfolio Projects
 
-# **Super Store Sales Analysis**
+Welcome to my **Python** repository!  
 
-## **Business Overview**
-Super Store is a U.S.-based retail business that sells products in three main categories: **Furniture, Office Supplies, and Technology**. Their customer base includes **individual consumers, corporate clients, and home offices**. This dataset captures **sales, profit, and geographic details** of each order.
+I'm Deondre Brown, a Business Intelligence Data Anaylst with a background mostly in Supply Chain and Logistics. I enjoy transforming data into meaningful insights through interactive dashboards and visual storytelling. This repository showcases my Python work — a collection of data analysis projects that highlight my ability to clean, explore, and visualize data using pandas, matplotlib, and seaborn to uncover meaningful insights and trends.
+### Projects
+- **N/A** – N/A  
+- **N/A** – N/A
 
-## **Objective**
-Analyze sales data to identify weaknesses and uncover growth opportunities for the business.
+## 🛠️ Overall tools I have experience with
 
-## **Key Questions**
-- Which product category generates the highest sales and profit?
-- What are the best-selling and most profitable sub-categories?
-- Which sub-category has the highest sales volume?
-- Which customer segment is the most profitable?
-- What is the most preferred shipping method?
-- Which region generates the most profit?
-- Which city records the highest number of sales?
+- SQL (SAS PROC SQL)
+- SAS
+- Power BI
+- Tableau
+- Python (Pandas, Matplotlib, Seaborn)
+- Excel & Power Query
 
-## **Tools & Methodology**
-This analysis will be conducted using **Python**, focusing on **data cleaning, transformation, visualization, and in-depth sales analysis**.
+📍 Open to discussing new roles and opportunities where I can apply my analytics skills and continue growing professionally.
 
-## **Dataset Source**
-The dataset is publicly available on **[Kaggle](https://www.kaggle.com/akashkothare/tsf-datasets)**.
+
+📫 Let’s connect: deondre.brown@outlook.com
+
+
+
+
+---
+
+
+
